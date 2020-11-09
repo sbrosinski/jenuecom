@@ -1,3 +1,3 @@
-for f in *.txt; do 
-    mv -- "$f" "${f%.txt}.text"
+for f in *.html; do 
+    mv -- "$f" "${f%.html}.md"
 done
