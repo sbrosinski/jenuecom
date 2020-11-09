@@ -1,0 +1,10 @@
+---
+layout: base.njk
+---
+
+<h1>{{title}}</h1>
+<div class="catlist">
+    {%- for poem in collections.poem -%}
+    <a href="{{ poem.url }}">{{ poem.data.title }}</a><br/>
+    {%- endfor -%}
+</div>

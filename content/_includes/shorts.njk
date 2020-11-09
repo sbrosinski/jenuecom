@@ -1,0 +1,10 @@
+---
+layout: base.njk
+---
+
+<h1>{{title}}</h1>
+<div class="catlist">
+    {%- for short in collections.short -%}
+    <a href="{{ short.url }}">{{ short.data.title }}</a><br/>
+    {%- endfor -%}
+</div>

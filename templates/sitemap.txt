@@ -1,0 +1,7 @@
+http://jenue.com/
+http://jenue.com/about/
+http://jenue.com/poems/
+http://jenue.com/short-stories/
+http://jenue.com/novels/
+{% for story in stories %}http://jenue.com/{{ story['cat'] }}/{{ story['id'] }}/
+{% endfor %}
