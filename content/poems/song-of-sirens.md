@@ -1,5 +1,5 @@
 ---
-title: The Song of Sirens (with audio)
+title: Song Of Sirens (with audio)
 ---
 # The Song of Sirens
 

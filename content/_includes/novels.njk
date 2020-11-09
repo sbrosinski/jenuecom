@@ -1,0 +1,10 @@
+---
+layout: base.njk
+---
+
+<h1>{{title}}</h1>
+<div class="catlist">
+    {%- for novel in collections.novelsAsc -%}
+    <a href="{{ novel.url }}">{{ novel.data.title }}</a><br/>
+    {%- endfor -%}
+</div>
