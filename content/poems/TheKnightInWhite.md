@@ -44,12 +44,12 @@ gently and she knew he was wise.<br/>
 Kind sir, may I please know your name?<br/>
 Thank you so much. Her gratitude was<br/>
 Great and her heart was full. And She wanted<br/>
-Him to feel the extent of her mood. <br/>
+Him to feel the extent of her new found mood. <br/>
 <br/>
 Pulling down his mask she finally saw his face.<br/>
 Dark and handsome -- but more than that.<br/>
 He leaned in and whispered his name in her ear.<br/>
-Again, gratefulness filled her heart -- but a little bit more than that.<br/>
+Again, gratefulness filled her heart -- but a little more than that.<br/>
 <br/>
 Gallantly dressed in white, <br/>
 The cold blue-eyed knight, who was not cold at all, bid <br/>
