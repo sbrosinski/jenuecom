@@ -1,7 +1,7 @@
 ---
-title: The Knight in White
+title: Knight in White
 ---
-# The Knight in White
+# Knight in White
 
 Cold steel blue eyes,<br/>
 Above the mask of the knight in white.<br/>
