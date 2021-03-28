@@ -3,6 +3,7 @@ title: Knight in White
 ---
 # Knight in White
 
+<br/><br/>
 Cold steel blue eyes,<br/>
 Above the mask of the knight in white.<br/>
 Authoritative and powerful. His <br/>
