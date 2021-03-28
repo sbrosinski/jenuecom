@@ -38,13 +38,13 @@ Leaving no trace of his scalpel. <br/>
 <br/>
 She was finally free of years of pain.<br/>
 And the good knight in white, with<br/>
-the cold blue eyes, nodded ever so<br/>
-gently and she knew he was wise.<br/>
+The cold blue eyes, nodded ever so<br/>
+Gently and she knew he was wise.<br/>
 <br/>
 Kind sir, may I please know your name?<br/>
-Her gratitude was great and her heart was full.<br/>
-And she wanted him to feel the extent of her<br/>
-new found mood.<br/>
+Thank you so much. Her gratitude was great and<br/>
+Her heart was full and she wanted him to know<br/>
+That he made her joyful.<br/>
 <br/>
 Pulling down his mask she finally saw his face.<br/>
 Dark and handsome -- but more than that.<br/>
