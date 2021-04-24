@@ -1,10 +1,9 @@
 ---
-title: Touched (with audio)
+title: Touched 
 ---
 # Touched
 
 Published by <a href="http://straylightmag.com/">Straylight Magazine</a><br/><br/>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/343412530&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 With you on my mind, I went to the night star and asked for the gift of her twinkle.  She laughed at me but I did not leave and when she saw a sparkle in my eye similar to her own, she reached out and touched my forehead.  <br/>
 
@@ -17,4 +16,3 @@ For you, I went to the ocean and asked for his passion.  He ignored me for days 
 My journey came to an end and I returned hastily by your side.  Touching my forehead to yours gave you the twinkle of the night star.  Eskimo kisses left you with the warm glow of the moon.  You felt fire on my lips and love in my heart while surfing the undulating passion of my embrace.  <br/>
 <br/>
 <br/>
-<a href="http://www.https://www.facebook.com/nuno.morgado.587"><i>For Nuno Rodrigues Morgado</i></a> 
