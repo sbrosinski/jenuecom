@@ -1,5 +1,5 @@
 ---
-title: Dweller
+title: Dweller (Published)
 ---
 # Dweller
 Published by <a href="http://www.diodati.co/?page_id=491">Diodati Magazine</a> <br/><br/>
