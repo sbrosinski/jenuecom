@@ -1,5 +1,5 @@
 ---
-title: The Lucky Card
+title: The Lucky Card (Published)
 ---
 # The Lucky Card
 Published in <a href="http://www.bardsandsages.com/speculative_fiction/bardic_tales_and_sage_advice">Bardic Tales and Sage Advice Volume 1</a><br/><br/>
