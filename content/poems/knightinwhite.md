@@ -1,5 +1,5 @@
 ---
-title: Knight in White (für Dr. B. P.)
+title: Knight in White
 ---
 # Knight in White
 
@@ -58,6 +58,4 @@ His name. She imagined him saving other young belles. <br/>
 And perhaps even a dragon from his own flame. <br/>
 <br/><br/>
 March 28, 2021<br/>
-~ For Doctor B. P. Chirurg/Surgeon<br/>
-I will remain eternally grateful.<br/>
-Mulțumesc foarte mult. ♥ <br/>
+
