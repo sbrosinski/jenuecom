@@ -51,11 +51,5 @@ Dark and handsome -- but more than that.<br/>
 He leaned in and whispered his name in her ear.<br/>
 Again, gratefulness filled her heart -- but a little more than that.<br/>
 <br/>
-Gallantly dressed in white, <br/>
-The cold blue-eyed knight, who was not cold at all, bid <br/>
-Farewell to the maiden, who would never forget him or<br/>
-His name. She imagined him saving other young belles. <br/>
-And perhaps even a dragon from his own flame. <br/>
-<br/><br/>
 March 28, 2021<br/>
 
