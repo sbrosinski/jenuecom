@@ -8,7 +8,8 @@ tags: home
 	<img src="/static/img/j2.jpg" width="300" heigt="397"/>
 	<div class="aboutText">
 		<h1>Jenue</h1>
-        <p> I'm a junior accountant. I write in my spare time and I've published two <a href="/short-stories/">short stories</a> and three <a href="/poems/">poems</a>. English is my native language. I'm fluent in German and I'm proficient in Portuguese. My hobbies include traveling and sitting in coffee shops to watch people walk past. I, however, hate coffee. 
+        <p> Update: 2021 -  Former junior accountant turned Java code monkey. I still like writing short stories and poetry when the feeling hits me. I love all things sweet! Tea is my drink of choice. I only drink coffee if it’s disguised heavily with milk and sugar. I’m a very nice person. I’ve been told that my personality matches my sweet tooth. I’m however somewhat socially awkward and weird. I used to like traveling but Covid stole that from me. I love learning languages. I’m a native English speaker, fairly fluent in German, proficient in Portuguese, and have a newfound affinity for Romanian. I’m soft spoken but extremely bold in spirit. I love to love! I’m open minded, playful and approachable. 
+
 		</p>
 		<p>
 			<p>You can reach me by mail: <br/>jenue (a) brosinski (dot) com</p>
