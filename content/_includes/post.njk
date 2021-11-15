@@ -1,0 +1,14 @@
+---
+layout: base.njk
+---
+
+<div class="post">
+    <h1 class="blogTitle">{{ title}}</h1>
+    <p class="blogDate">{{ page.date.toLocaleDateString('de', { year: 'numeric', month: 'numeric', day: 'numeric' }) }}</p>
+    <p class="blogContent">
+ 
+    {{ content | safe }}
+
+    </p>
+    
+</div>
