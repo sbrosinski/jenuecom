@@ -1,6 +1,6 @@
 ---
 title: Back to Blogging
-date: 2021-11-15
+date: "2021-11-15"
 ---
 
 A lot of people have left social media and I’m one of them. In my opinion social media is doing more harm than good. I’ve been social media free for about 3 years and it was the best decision for my mental health and productivity. I kept Youtube for watching videos, but that’s it. 
