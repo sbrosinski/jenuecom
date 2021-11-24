@@ -9,4 +9,4 @@ My mother used to get all her ingredients from a little Asian shop on Old World 
 
 Anywho, don’t forget to be thankful and create lots of good memories. Try to enjoy the little annoyances because someday you’ll look back and realize that these were the good ole days. 
 
-Be the sunshine. Happy Thanksgiving!  
+Be the sunshine. 🦃  Happy Thanksgiving! 🦃 
