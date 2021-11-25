@@ -21,4 +21,5 @@ I made this ascii hugs and kisses Christmas tree and would like to share it with
 ```
 Just copy and paste. 
 If the tree doesn’t paste completely in alignment you will have to adjust the spacing.
-Looks amazing if you add color. Enjoy!
+Works really well in g-mail and looks amazing if you add color. So if you're tired of
+using the same old emojis give this a go. Tis the Season! 
