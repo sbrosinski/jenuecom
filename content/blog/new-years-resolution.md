@@ -9,6 +9,6 @@ I will make my best effort to spend more time in the moment, appreciating and en
 
 Now that it is written, it shall be done! 😂
 
-I’ll still be chasing rainbows and butterflies! Because that’s who I am. But if I can spend more time in the moment and less time chasing, I’ve already won. 
+I’ll still be chasing rainbows and butterflies, because that’s who I am. But if I can spend more time in the moment and less time chasing, I’ve already won. 
 
 Do you have a New Year’s resolution? 
