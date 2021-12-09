@@ -38,3 +38,4 @@ Gifts that I love getting:
 * Home-baked goods
 * Keepsakes (like Christmas ornaments)
 * Gift baskets
+* Plants and flowers
