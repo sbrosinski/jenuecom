@@ -14,7 +14,7 @@ For example, good perfume is always expensive. But I could never give an adult c
 
 Giving someone a ridiculously cheap gift is always a big NO for me. But there are many times when giving expensive gifts is inappropriate. For example, giving an expensive gift to your child’s teacher… BIG NO for obvious reasons. Also, giving expensive gifts to those who might feel obligated to give you a gift in return is a no. 
 
-With all this said, here are a list of gifts that I like to give:
+With all this said, here is a list of gifts that I like to give:
 
 * Notebooks or journals
 * Scarfs and gloves
