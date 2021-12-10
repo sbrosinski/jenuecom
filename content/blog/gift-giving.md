@@ -5,7 +5,7 @@ date: "2021-12-09"
 
 Gift Giving
 
-I love giving gifts! And the gift giving season is indeed upon us. If I give you a gift it’s because I love you, or I want to say thank you, or both. You will, hopefully, know why. 😉
+I love giving gifts! And the gift giving season is indeed upon us. If I give you a gift it’s because I love you, or I want to say thank you, or both. You will know why. 😉
 
 But as much as I love giving gifts, I’m also very cautious about doing so. The whole gift giving process can get a little political. For example, what is an expensive gift? What is a cheap gift? 
 I think you know where I’m going with this post. What’s expensive for one person, may not be expensive for the other. And you might not share my opinion about what’s cheap. As a rule, if you are not close friends, a gift should fall in between expensive and cheap. But that can be a little tricky. 
