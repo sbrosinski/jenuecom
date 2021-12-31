@@ -12,3 +12,7 @@ I would even offer to pay for the Biontech booster, but I don’t think that’s
 So, I guess I’m taking my chances with Omicron. I refuse to get vaccinated with an inferior vaccine just because there isn’t enough of the good stuff. 
 
 This whole situation just feels wrong. 
+
+Update:  31-12-2021
+
+Today I was vaccinated with Biontech! Apparently, the rule is not set in stone. I went to the vaccination center and the Doctor just asked people what they wanted. Easy peasy, no fuss. So, if you’re over 30 and they refuse to give you Biontech I would recommend that you just go somewhere else. 
