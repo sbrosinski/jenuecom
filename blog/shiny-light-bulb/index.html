@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="jenueApp">
+<head>
+  <meta charset="utf-8">
+  <title>Shiny Light Bulb - Jenue</title>
+  <meta name="Description" content="Free poems, novels and short stories by Jenue Brosinski">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Bootstrap -->
+  <link href="/static/css/bootstrap.min.css" rel="stylesheet" media="screen">
+  <link href="/static/css/animate-custom.css" rel="stylesheet" media="screen">
+  <style>
+  html { 
+    background: url("/static/img/bg2.jpg") no-repeat center center fixed; 
+    background-size: cover;
+  }
+  body {
+    background-color: transparent;
+  }
+  h1 {color: white;}
+
+  h1.title {font-size: 4em; color: rgba(255, 255, 255, 0.4);}
+  
+  @-webkit-keyframes slidein {
+    from {
+      background-color: rgba(255,255,255,1);
+    }
+
+    to {
+      background-color: rgba(255,255,255,0.3);
+    }
+  }
+
+  ul.textthumb {margin: 10px;}
+  ul.textthumb li {background-color: rgba(255,255,255,0.7); text-align: center;
+    font-size: 1.5em; line-height: 120px; list-style: none; width: 200px;
+    display: inline-block; margin: 10px; padding: 10px;
+  }
+
+
+
+  .stories {width: 100%; margin-top: 100px; text-align: center;}
+  .home {margin-top: 100px;}
+  
+  .about {
+    margin-top: 30px;
+  }
+  .about img {
+    float: left;
+    margin-right: 30px;
+  }
+  .about {
+    font-size: 1.3em; line-height: 1.8em;
+  }
+  .aboutText {
+    width: 300px;
+    display: inline-block;
+  }
+
+  .storypager {text-align: center; margin: 10px;} 
+
+  .story {width: 600px; height: 100%; overflow:auto; font-size: 1.3em;padding-bottom: 100px;}
+
+  .story {
+    line-height: 1.5em;
+    
+  }
+
+  .thumbnails {text-align: center;}
+  .textthumb a {color: #333;}  
+  .textthumb a:hover {text-decoration: none;}  
+
+  ul.storypager { display: block;}
+  
+  ul.pageIndicator {margin: 10px;}
+  ul.pageIndicator li {
+    list-style: none;
+    display:inline-block;
+    line-height: 5px;
+    font-size: 5px;
+
+  }
+  ul.pageIndicator .circle {
+    height: 5px;
+    width: 5px;
+    margin: 5px;
+    border: 1px solid  #666;
+    border-radius: 5px;
+    background-color: black;
+  }
+  ul.pageIndicator .active {
+    background-color: white;
+    border: 1px solid #666;
+  }
+
+  .signature {
+    font-weight: bold;
+    color: white;
+
+  }
+
+  .view {
+    width: 700px;
+    position: relative;
+  }
+  .container {
+    margin-left: 30px;
+  }
+
+  i.icon-home {margin-left: 10px};
+  div.home {width: 400px;}
+  div.home h3 {margin-left: 140px;}
+
+  div.share {position: absolute; float: right; top: 10px; right: 10px; height: 30px; width: 200px;}
+
+  .catlist {
+    font-size: 1.1em;
+    line-height: 1.3em;
+  }
+  .catlist a {color: black;}
+  .copy {font-size: 0.8em;}
+  .navbar-inverse .navbar-text {color: #666;} 
+
+  .blogTitle {font-size: 1.4em; margin-bottom: 2px;}
+  .blogTitle a {color: white;}
+  .blogTitle {line-height: 1em; margin-bottom: 5px; margin-top: 20px;}
+  .blogDate {font-size: 0.9em;}
+  .blogContent {line-height: 1.5em; font-size: 1.3em;}
+  pre {color: #123;background-color: transparent;border: none; line-height: 1em;}
+  </style>
+
+</head>
+<body>
+  <div class="container">
+    <div class="view">
+      
+<div class="post">
+    <h1 class="blogTitle">Shiny Light Bulb</h1>
+    <p class="blogDate">2/9/2022</p>
+    <div class="blogContent">
+ 
+    <p>That moment when the light bulb over your head shines bright! And you finally understand the coding concept that you’ve been working on for days. Happy!!! 🥳</p>
+<p>Programming concepts can really take a while to sink in. Be patient. I promise you’ll eventually understand it.</p>
+
+
+    </div>
+    
+</div>
+      
+    </div>
+
+    <br/><br/><br/><br/>
+    
+    <div class="navbar navbar-fixed-bottom navbar-inverse">
+      <div class="navbar-inner">
+
+        <ul class="nav navbar-nav navbar-left">
+          <li><a href="/"><i class="icon-home icon-white"></i></a></li>           
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/short-stories/">Short Stories</a></li>
+          <li><a href="/poems/">Poems</a></li>
+          <li><a href="/novels/">Novels</a></li>
+          <!--li><div class="fb-like" data-href="https://www.facebook.com/pages/Jenue-Brosinski/170010766369980" data-width="450" data-layout="button_count" data-show-faces="true" data-send="true"></div></li-->
+        </ul>
+
+        <ul class="nav navbar-nav navbar-right">
+          <p class="navbar-text copy">&copy; 2021 Jenue Brosinski</p>
+        </ul>
+
+      </div>
+    </div>
+    
+
+  </div>
+
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-44459175-1', 'jenue.com');
+              ga('send', 'pageview');
+
+            </script>
+
+</body>
+</html>
