@@ -9,4 +9,4 @@ I know from experience, with publishing, that authors are often required to writ
 
 I don’t like autobiographies that are pretending to be biographies. Just be honest and write in the 1st person. Autobiographies are, in my opinion, much better. You know yourself better than anyone else, so I’d rather read what YOU write about yourself. 
 
-Just my opinion though 🤓
+Just my opinion though. 🤓
