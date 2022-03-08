@@ -7,6 +7,5 @@ A year ago today, I was in the hospital getting a very difficult wisdom tooth re
 
 I dodged several bullets that day. I never considered myself a beautiful woman, so I didn’t realize how precious my face is until my doctor said that I could lose feeling in my lips, tongue, and have a huge scar from the screws that he would use to wire a broken jaw shut.
 
-It was an excruciating experience, but I’m still here! So, today I’m celebrating life. I’m so happy to live a normal, simple life completely undamaged and completely healed. 
+It was an excruciating experience, but I’m still here. So, today I’m celebrating life. I’m so happy to live a normal, simple, life completely undamaged and completely healed. 
 
-Dr. B.P. thank you so much! 💘
