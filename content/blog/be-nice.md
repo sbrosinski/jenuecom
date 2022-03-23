@@ -1,6 +1,6 @@
 ---
 title: Be Nice
-date: "2022-03-21"
+date: "2022-03-23"
 ---
 
 Sometimes I think that I live in an age where being nice is considered creepy. If you’re too nice people think you want something from them. But why? Why is it weird to be nice? I really don’t understand it. 
