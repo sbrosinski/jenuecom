@@ -11,8 +11,4 @@ Ich wünsche dir frohe Weihnachten und einen guten Rutsch ins neue Jahr mit viel
 
                                                   🎅
 
-Îți doresc un Crăciun minunat, și un An Nou plin de sănătate, bucurie, fericire și succes. 
-
-                                                  🎁
-
 Desejo-te um ótimo Natal e um Ano Novo cheio de saúde, alegria, felicidade e sucesso.
