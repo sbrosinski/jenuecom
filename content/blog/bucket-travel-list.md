@@ -10,4 +10,3 @@ This is my bucket list of countries that I would like to visit, in alphabetical 
 *	China
 *	Japan
 *	New Zealand 
-*	Romania
