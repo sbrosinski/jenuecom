@@ -9,7 +9,7 @@ I don’t speak French at all. I added the course because I was curious and then
 
 I don’t speak Romanian either. I do, however, love this language. The structure is quite unique, and the sound of the language is so welcoming that it’s fun to learn. I unfortunately don’t have the time right now to invest in a new language. 
 
-I speak German. My grammar is not the best, but I can understand 95% of Hoch Deutsch and I can speak fluently enough to be understood. 
+I speak German. My grammar is not the best, but I can understand 95% of Hochdeutsch and I can speak fluently enough to be understood. 
 
 I understand simple Portuguese. I think that I can speak enough to get by, and I can read Portuguese very well. 
 
