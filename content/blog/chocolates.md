@@ -3,7 +3,7 @@ title: Chocolate
 date: "2022-05-08"
 ---
 
-This morning I woke up to the song Chocolate by Kylie Minogue.
+This morning I woke up to the song Chocolate.
 
 What did I have for breakfast?
 
