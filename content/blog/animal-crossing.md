@@ -13,6 +13,6 @@ My Island's name is maoland
 
 DA-3535-0060-0852
 
-I share this island with my family. I'm BlueBird. The house with the red roof, Red Coral Resort, is mine.
+I share this island with my family. I'm BlueBird. The house with the red roof is mine.
 
 Watch out for the pitfall field! 😂
