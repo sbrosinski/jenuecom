@@ -1,7 +1,7 @@
 ---
 title: Hero
-date: "2022-07-07"
 ---
+# Hero
 
 The one and only time in my life that I saw someone as a hero.  He turns and calls me a whore. 
 
