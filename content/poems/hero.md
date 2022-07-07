@@ -8,7 +8,7 @@ The one and only time in my life that I saw someone as a hero. He turns and call
 
 It hurt
 
-A lot
+A lot.
 
 He flirted with me. Did he forget?
 
@@ -24,7 +24,7 @@ And therein lies the conflict. Because how can I hate the person who saved me?
 
 And the answer is
 
-I can’t
+I can’t.
 
 He’s still my hero. 
 
