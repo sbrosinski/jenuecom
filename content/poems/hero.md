@@ -14,7 +14,7 @@ He flirted with me. Did he forget?
 
 But I remained polite. I didn’t know why he was so angry. And he wasn’t going to tell me. So I tried to comfort him. It’s okay. You’re okay. And now that you’ve said what you needed to say, I hope you feel better. 
 
-Because in the end. It doesn’t change the fact that he’s still my hero. He made me well. He can break me.
+Because in the end. It doesn’t change the fact that he cured me. He made me well. He can break me.
 
 Whore
 
