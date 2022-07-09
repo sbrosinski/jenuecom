@@ -13,4 +13,6 @@ And the last few sentences were really funny: “Thanks a lot for your order. Yo
 
 And in fine print is written, “Your order will be with you shortly. Go ahead and clear off some shelf space.”  
 
-Thank you for sending me this silly email. I needed the laugh. 🤣 
+Thank you for sending me this silly email. I needed the laugh.  </br>
+
+I don't know what a Magnetic Locator is, but now I want one. 🤣 😂
