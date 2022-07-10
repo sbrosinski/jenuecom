@@ -1,6 +1,6 @@
 ---
 title: Letter from The Police Department
-date: "2022-07-10"
+date: "2022-07-11"
 ---
 
 I got a letter from the police department yesterday asking me to take part in a discrimination survey. They are trying to reduce hate crimes. 
