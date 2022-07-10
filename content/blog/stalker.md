@@ -13,7 +13,7 @@ I think he wants me to click on the link.
 
 He sometimes coordinates the spam with my blogs.
 
-I tried offering to talk to him once, by blogging, and he sent a spam message back with “mierda puta,” written the in the subject line, which means dirty or shitty whore.
+I tried offering to talk to him once, by blogging, and he sent a spam message back with “mierda puta,” written in the subject line, which means dirty or shitty whore.
 
 I answered him back, again by blogging. 
 
