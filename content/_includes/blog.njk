@@ -11,7 +11,7 @@ layout: base.njk
     <span class="blogDate">{{ post.date.toLocaleDateString('de', { year: 'numeric', month: 'numeric', day: 'numeric' })}}</span>
     <div class="blogContent">
     
-    {{ post.data.content | safe}}
+    {{ post.data.content}}
     </div>
     {%- endfor -%}
 </div>
