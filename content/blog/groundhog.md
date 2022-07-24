@@ -7,5 +7,6 @@ Spent today high in the mountains with the groundhogs. While I was busy trying t
  
 <img src="/static/img/IMG_1016.jpg" width="500">
 
+
 <img src="/static/img/IMG_0517.jpg" width="500">
 
