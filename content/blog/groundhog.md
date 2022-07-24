@@ -7,8 +7,8 @@ Spent today high in the mountains with the groundhogs. While I was busy trying t
  
 <img src="/static/img/IMG_1016.jpg" width="500">
 
-<br/> <br/> 
+<br/> 
 
-Say cheese, groundhog.
+Say cheese, groundhog. 😁
 
 <img src="/static/img/IMG_0517.jpg" width="500">
