@@ -16,7 +16,7 @@ As an adult, I figured out that I really like the ukulele. I own a tenor ukulele
 
 <img src="/static/img/IMG-ukulele.jpg" width="500">
 
-<br/> <br/>
+<br/>
 I think everyone can play a musical instrument. You just have to find the right one for you.
 
 Make Every Day Fun! 
