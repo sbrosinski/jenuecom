@@ -12,8 +12,11 @@ Haha! I remember being completely frustrated trying to make my side flute make s
 Then I took piano lessons and was bored out of my mind. I just didn’t want to.
 
 As an adult, I figured out that I really like the ukulele. I own a tenor ukulele and it makes the most beautiful sound, even when I hit the wrong notes. I tell myself that if I get really good at playing, I might try playing the guitar. But that’s a big if!
+<br/>
 
 <img src="/static/img/IMG-ukulele.jpg" width="500">
+
+<br/>
 
 I think everyone can play a musical instrument. You just have to find the right one for you.
 
