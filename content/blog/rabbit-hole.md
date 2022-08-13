@@ -7,6 +7,6 @@ Amazing! Some people willingly go deep down the rabbit hole only to discover tha
 
 Please get out of the rabbit hole. Stop stalking. Stop bullying. I hope you find peace and happiness❣️
 
-Enjoy your summer ️🏖
+Enjoy your summer 🌻
 
 <img src="/static/img/IMG-bunny.jpg" width="500">
