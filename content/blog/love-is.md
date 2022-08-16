@@ -17,5 +17,7 @@ Nowhere in that verse does it say, love hurts.
 
 People think that (romantic) love alone is enough to sustain a relationship, but it’s not. You need compatibility, financial security, tolerance, will power, and the ability to sacrifice.
 
-Sharing your life with someone is very difficult. But please don’t equate hurting with love. Believing that “love hurts” is very dangerous. Don’t let anyone hurt you!
+Sharing your life with someone is very difficult. But please don’t equate hurting with love. Believing that “love hurts” is very dangerous.
+
+Don’t let anyone hurt you!
 
