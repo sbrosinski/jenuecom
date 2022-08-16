@@ -5,11 +5,11 @@ date: "2022-08-16"
 
 I’m tired of hearing people say love hurts. No, it doesn’t! It’s not love that hurt you. 
 
-The idea that love hurts is very dangerous. Don’t let anyone hurt you! 
+The idea that love hurts is very dangerous. Don’t let anyone hurt you! 🚫
 
 Love alone is not enough to sustain a healthy relationship. You need compatibility, financial security, tolerance, will power, and the ability to sacrifice. 
 
-Sharing your life with someone is very difficult. But please don’t equate hurting with love.
+Sharing your life with someone is very difficult. But please don’t equate hurting with love. 
 
  This Bilbe verse tells us what love is.
 
