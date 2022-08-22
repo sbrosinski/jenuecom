@@ -3,7 +3,7 @@ title: Franzbrötchen Apfelstrudel
 date: "2022-08-22"
 ---
 
-I just discovered franzbrötchen apfelstrudel. 
+I just discovered franzbrötchen-apfelstrudel. 
 
 Oh my gosh, it’s the most delicious thing I’ve ever tasted! 😋 💕 You guys have to try this.
 
