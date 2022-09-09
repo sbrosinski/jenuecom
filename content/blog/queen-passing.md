@@ -7,7 +7,7 @@ Where were you when you heard that Queen Elizabeth II died? I was sitting in the
 
 <img src="/static/img/IMG-Moonchild.jpg" width="500">
 
- <br/>
+ <br/> <br/>
 
 Peace and Prayers to the Royal Family. Long live King Charles III. 🇬🇧
 
