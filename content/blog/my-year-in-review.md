@@ -9,9 +9,9 @@ Fun Activities
 * Austria
 * Berlin
 * Munich
-* Moonchild
+* Moonchild concert
 * Madame Tussauds
-* Kendrick Lamar
+* Kendrick Lamar concert
 
 Personal
 * A big part of this year was spent dealing with an almost invisible online presence. ‘dan thank you for thinking of me. I miss your annoying spam messages.
