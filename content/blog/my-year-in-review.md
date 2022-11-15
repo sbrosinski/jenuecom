@@ -11,7 +11,11 @@ Fun Activities
 * Munich
 * Moonchild
 * Madame Tussauds
+<<<<<<< HEAD
 * Kendrick Lamar
+=======
+* Kendric Lamar
+>>>>>>> origin/main
 
 Personal
 * A big part of this year was spent dealing with an almost invisible online presence. ‘dan thank you for thinking of me. I miss your annoying spam messages.
@@ -32,5 +36,9 @@ Personal
 * My family is well and thriving.
 
 
+<<<<<<< HEAD
 I love everyone who has been a part of my life this year. You all mean so much to me, and I value every single one of you. I love you! 🥰 
+=======
+I love everyone who has been a part of my life this year. You all mean so much to me and I value every single one of you. I love you! 🥰 
+>>>>>>> origin/main
 
