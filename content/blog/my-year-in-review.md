@@ -11,26 +11,20 @@ Fun Activities
 * Munich
 * Moonchild concert
 * Madame Tussauds
-* Kendrick Lamar concert
 
 Personal
-* A big part of this year was spent dealing with an almost invisible online presence. ‘dan thank you for thinking of me. I miss your annoying spam messages.
+
+* I figured out that I was using the wrong Java book. I’m very disappointed with my progress, but I have lots of time. I made a promise to myself that I will continue to learn Java more efficiently next year.
 
 
-* I accidentally learned a new language. I really wasn’t serious about learning Romanian, but the language is so beautiful that it took root in my heart.
+* I need to work more on physical fitness, concentrating on flexibility and endurance. 
 
 
-* I figured out that I was using the wrong Java book. I’m very disappointed with my progress, but I have lots of time. I promise myself that I will continue to learn Java more efficiently next year.
-
-
-* My fitness level has dropped. I will need to work more on flexibility and endurance.
-
-
-* I want to improve my social skills, but I don’t know where to begin.
+* I would also like to improve my social skills. Charisma, diplomacy and poise are traits that I wish to learn. But, is that even possible? 
 
 
 * My family is well and thriving.
 
 
-I love everyone who has been a part of my life this year. You all mean so much to me and I value every single one of you. I love you! 🥰 💕
+Bear, Flamingo and Mongoose, the three of you are my whole heart. I love you! 🥰 💕 
 
