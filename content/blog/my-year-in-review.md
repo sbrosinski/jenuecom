@@ -11,6 +11,7 @@ Fun Activities
 * Munich
 * Moonchild concert
 * Madame Tussauds
+* Kendrick Lamar concert
 
 Personal
 
@@ -26,5 +27,5 @@ Personal
 * My family is well and thriving.
 
 
-Bear, Flamingo and Mongoose, the three of you are my whole heart. I love you! 🥰 💕 
+Bear, Flamingo and Mongoose, the three of you are my whole heart. I love you!! 🥰 💕 
 
