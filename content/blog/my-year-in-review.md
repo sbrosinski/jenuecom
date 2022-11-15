@@ -32,5 +32,5 @@ Personal
 * My family is well and thriving.
 
 
-I love everyone who has been a part of my life this year. You all mean so much to me, and I value every single one of you. I love you! 💕 🥰 
+I love everyone who has been a part of my life this year. You all mean so much to me, and I value every single one of you. I love you! 🥰 
 
