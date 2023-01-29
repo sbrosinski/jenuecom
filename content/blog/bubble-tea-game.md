@@ -5,3 +5,4 @@ date: "2023-01-29"
 
 [The Google Doodle Bubble Tea Game](https://g.co/doodle/wcw8r2e) is fun and cozy. 😊
 
+<img src="/static/img/BubbleTeaGAme.jpg" width="500">
