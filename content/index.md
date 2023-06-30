@@ -13,6 +13,6 @@ tags: home
 		<p>
 			<p>You can reach me by mail: <br/>jenue (a) brosinski (dot) com</p>
 			*All content by Jenue Brosinski, unless otherwise stated.
-	    </p>
+		</p>
 	</div>
 </div>    
