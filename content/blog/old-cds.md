@@ -13,4 +13,4 @@ I checked to see if Spotify has the album and they do not. Does anyone else have
 
 <a href="https://www.youtube.com/playlist?list=PLV_wQztrpwPLklTTwEW9Vz4DlEXXU7P1G"><img src="/static/img/IMG_Putumayo.jpg" width="350"></a>  
 
-I found all the individuals songs on Youtube and created a playlist. Click on the album cover to listen to the songs. 
+I found all the individual songs on YouTube and created a playlist. Click on the album cover to listen to the songs! 
