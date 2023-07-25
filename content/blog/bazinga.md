@@ -1,5 +1,5 @@
 ---
-title:Bazinga!
+title: Bazinga!
 date: "2023-07-25"
 ---
 
