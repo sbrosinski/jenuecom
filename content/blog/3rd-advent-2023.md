@@ -7,7 +7,7 @@ Oh my gosh, I still can’t believe that it’s already 3rd Advent. I blinked an
 
 I was a little sad that I fell short of this year’s resolution, but then I realized that I made progress in other areas of my life. And you know, I’m happy with that.
 
-My Christmas wish is for my family, friends and anyone who has helped me in the past years, to be happy, healthy and prosperous. Good people are few and far between. I never forget those who have helped me. ❤︎
+My Christmas wish is that my family and friends are happy, healthy and prosperous. ❤︎ 
 
-Until next blog post – Be well ☃️ 
+Until next blog post – Be well 🧸
 
