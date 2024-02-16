@@ -7,4 +7,4 @@ In the past few days my website has been getting a lot of referral spam. From th
 
 You’ve got my attention. 
 
-<img src="/static/img/ga4chart.jpg" width="500">
+<img src="/static/img/ga4chart.jpg" width="800">
