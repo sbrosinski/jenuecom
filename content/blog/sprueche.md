@@ -1,11 +1,11 @@
 ---
-title: Sprüche
+title: Deutsche Sprichwörter
 date: "2024-02-18"
 ---
 
-Heute muss ich auf Deutsch posten, denn ich möchte ein paar meiner deutschen Lieblingssprüche teilen.
+Heute muss ich auf Deutsch posten, denn ich möchte ein paar meiner deutschen Lieblingssprichwörter teilen.
 
-* Glauben ist nicht wissen.
+* Glauben ist nicht wissen. 
 
 
 * Wieso, weshalb, warum, wer nicht fragt bleibt dumm!
