@@ -9,5 +9,5 @@ I had a nice conversation with my mom.  We don’t talk very often. We talked ab
 
 I’ve been blogging way more than I have time for. My next blog post will be in a few weeks. I’m working on a project that I really want to finish. So, see you later. 😊
 
-<img src="/static/img/PurpleFlowers.jpg" width="500">
+<img src="/static/img/PurpleFlowers.JPG" width="500">
 
