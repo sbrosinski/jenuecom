@@ -1,7 +1,7 @@
 ---
 title: Into the Abyss
-date: "2024-04-18"
 ---
+# Into the Abyss
 
 I think I’m crazy.<br/>
 I’m not sure we met.<br/>
