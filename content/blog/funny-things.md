@@ -11,4 +11,4 @@ I laughed so hard. 😂
 
 But at least he smells nice. ¯\_(ツ)_/¯
 
-I needed that laugh. 
+I needed the laugh. 
