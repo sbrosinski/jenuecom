@@ -9,7 +9,7 @@ Unfortunately, I failed the Speaking test. I wasn’t sure about retaking the te
 
 The convincing argument was, “The worst they can do is fail you again, and you can afford to retake it as often as needed.”  So, I’m planning on halfheartedly retaking the test sometime in the near future.
 
-The price for retaking one section of the test is 90 €. As I mentioned earlier, I paid 250 € for all 4 tests. That comes to 62,50 € per test. Which means I will be paying 27,50 € more than I paid the first time.
+The price for retaking one section of the test is 99 €. As I mentioned earlier, I paid 250 € for all 4 tests. That comes to 62,50 € per test. Which means I will be paying 36,50 € more than I paid the first time.
 
 Being dumb is indeed expensive! 💀 💶
 
