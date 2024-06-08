@@ -9,23 +9,23 @@ Hier ist das Rezept. Es ist auf Deutsch, weil ich aus Versehen das englische Ver
 
 Zutaten
 
-125 g Butter, geschmolzen
-2 Eier
-250 g weißer Zucker
-4 Esslöffel Kakaopulver
-1 Teelöffel Vanilleextrakt
-150 g Mehl
-100 g Walnüsse, zerhackt *optional
+* 125 g Butter, geschmolzen
+* 2 Eier
+* 250 g weißer Zucker
+* 4 Esslöffel Kakaopulver
+* 1 Teelöffel Vanilleextrakt
+* 150 g Mehl
+* 100 g Walnüsse, zerhackt *optional
 
 Anleitungen
 
-•	Die Butter, den braunen und weißen Zucker in einer großen Schale verrühren.
-•	Die Eier nacheinander dazugeben und verrühren.
-•	Den Vanille Extrakt zugeben.
-•	Das Kakaopulver hinzufügen, alles gut verrühren.
-•	Langsam das Mehl hinzufügen und gut mischen.
-•	Die Walnüsse hinzufügen. *optional
-•	2 Esslöffel Brownie Mischung in jeder Papierbackform einfüllen.
+* Die Butter, den braunen und weißen Zucker in einer großen Schale verrühren.
+* Die Eier nacheinander dazugeben und verrühren.
+* Den Vanille Extrakt zugeben.
+* Das Kakaopulver hinzufügen, alles gut verrühren.
+* Langsam das Mehl hinzufügen und gut mischen.
+* Die Walnüsse hinzufügen. *optional
+* 2 Esslöffel Brownie Mischung in jeder Papierbackform einfüllen.
 
 Backform für ca. 20 Minuten in den 200 Grad heißen Ofen stellen.
 
