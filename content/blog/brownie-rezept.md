@@ -27,6 +27,6 @@ Anleitungen
 * Die Walnüsse hinzufügen. *optional
 * 2 Esslöffel Brownie Mischung in jeder Papierbackform einfüllen.
 
-Backform für ca. 20 Minuten in den 200 Grad heißen Ofen stellen.
+Backform für ca. 25 Minuten in den 200 Grad heißen Ofen stellen.
 
 Ergibt 9 Muffins
