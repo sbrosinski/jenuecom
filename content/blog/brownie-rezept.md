@@ -3,7 +3,7 @@ title: Brownie Rezept
 date: "2024-06-08"
 ---
 
-Ich habe gestern Brownies in Muffin form gemacht. Die wurden sehr schnell aufgegessen. Leider habe ich nur eine abbekommen. 😭 
+Ich habe gestern Brownies in Muffin form gemacht. Die wurden sehr schnell aufgegessen. Leider habe ich nur einen abbekommen. 😭 
 
 Hier ist das Rezept. Es ist auf Deutsch, weil ich aus Versehen das englische Version überschrieben habe.
 
