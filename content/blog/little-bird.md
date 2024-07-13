@@ -5,7 +5,7 @@ date: "2024-07-12"
 
 I woke up early this morning to the sound of a little bird chirping around my window. What a wonderful way to wake up! Last night was so warm that I slept with my bedroom window open.
 
-It’s currently 21° C.  I’ve been enjoying the estival weather. Sunshine makes me happy.  🌞
+It’s currently 21° C 🌞 I’ve been enjoying the estival weather. Sunshine makes me happy. 
 
 I’m going on vacation in a few days.  I’m not really excited about it, at least not yet.  I’m sure it will be fun, but there’s still so much to do that I can’t unwind.
 
