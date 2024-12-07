@@ -20,4 +20,4 @@ And therefore never send to know for whom the bell tolls;
 It tolls for thee.
 
 _____________________
-This is one of my favorite poems. I, of course, like everyone else strive to be as independent as possible. This poem reminds us that no one is truly self-sufficient; everyone relies on others in some way, shape or form. 
+*This is one of my favorite poems. I, of course, like everyone else strive to be as independent as possible. This poem reminds us that no one is truly self-sufficient; everyone relies on others in some way, shape or form.* 
