@@ -1,6 +1,6 @@
 ---
 title: Brioșe cu banane
-date: "2024-12-03"
+date: "2024-12-08"
 ---
 
 *	200 de grame de făină universală
