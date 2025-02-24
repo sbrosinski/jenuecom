@@ -3,7 +3,7 @@ title: Fluturi
 date: "2025-02-15"
 ---
 
-Fluturi sunt întotdeauna frumoși 😉 ❤︎
+Fluturi sunt întotdeauna frumoși 😉
 
 <iframe width="315" height="560"
 src="https://www.youtube.com/embed/UMrSu3DQpfc"
