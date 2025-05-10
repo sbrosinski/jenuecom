@@ -3,8 +3,6 @@ title: Class Two
 date: "2025-05-10"
 ---
 
-Class 2
-
 In this week’s German class, the lesson(s) that stood out the most are:
 
 Expressions using color.
