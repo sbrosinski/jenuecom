@@ -8,7 +8,5 @@ Zlatomir Fung played beautifully but Benjamin Zander stole the show. I was not a
 <img src="/static/img/Zander.JPG" width="500">
 
 
-The architecture of the Elbphilharmonie extends its luxurious design all the way down to its escalator. 
 
-<img src="/static/img/escalator.jpg" width="500">
 
