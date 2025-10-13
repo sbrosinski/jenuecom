@@ -8,5 +8,6 @@ Last night my family took me out to our favorite Greek restaurant to celebrate m
 I ordered lamb with rice and salad. I didn’t eat the salad because it came already covered in yogurt dressing and I’m hyper lactose intolerant.  I thought the lamb was going to be grilled lamb with a side of rice, but I got lamb sewed in tomato sauce and it was mixed with watery rice. The dish came displayed in what looked like a gravy bowl. 😲 The presentation was already questionable, but then I tasted the lamb and it was so leathery that I could barely swallow it. It was not my intention to offend anyone, but I physically couldn’t eat was I was given.
 
 The waiter seemed offended that I didn’t immediately ask for something else, but it’s not in my nature to complain. I didn’t order dessert because everything was laced with lactose.  I wasn’t angry about it. Sometimes that’s just how it is.
+
 I went home, had a banana and a Snickers bar, watched a few episodes of The Big Bang Theory, and went to bed happy. 
 
