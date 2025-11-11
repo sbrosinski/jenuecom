@@ -12,4 +12,4 @@ Por ti, fui ter com o oceano e pedi-lhe a sua paixão. Ele ignorou-me durante di
 A minha viagem chegou ao fim e voltei à pressa para junto de ti. O toque da minha testa na tua deu-te o brilho da estrela da noite. O toque dos nossos narizes deixou-te com o brilho da lua. Sentiste o fogo nos meus lábios e amor no meu coração enquanto navegavas a paixão ondulante do meu abraço.<br/>
 <br/>
 <br/>
-<a href="http://www.https://www.facebook.com/nuno.morgado.587"><i>For Nuno Rodrigues Morgado</i></a> 
+
