@@ -19,6 +19,6 @@ I’m ashamed to admit this part. The thought of hurting myself did enter my min
 
 After sitting in the bathroom for an eternity, I finally stopped crying. I washed my face, made myself smile, and had dinner with my family. I don’t think they noticed. And nobody reads my blog, so they’ll never know.
 
-Today I feel like a brand-new person. The closet is empty. I obviously need to find a better way to deal with my feelings. I shouldn’t have dealt with this alone. Locking myself in the bathroom was a mistake.  I should have called Goose.
+Today I feel like a brand-new person. The closet is empty. I obviously need to find a better way to deal with my feelings. I shouldn’t have dealt with this alone. Locking myself in the bathroom was a mistake, but I didn't have anyone to hold my hand. 
 
 The only reason I’m posting this is that it might help someone else get through a difficult time. No one reads my blog. But what if they do? 
