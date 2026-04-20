@@ -10,4 +10,4 @@ I'm saying that you don’t have to envy your neighbour’s electric Porsche. If
 Now count all the things that you actually have that are, in my opinion, real luxury: 
 Family, friends, healthy children, love, peace, safety, a sense of accomplishment, a healthy mind and body, happiness, a purpose, knowing that you’re not alone, and a fulfilling occupation. 
 
-If you have two or more of the luxuries on my list, then you are indeed very rich! Don’t waste your time chasing an overabundance of money just to buy unimportant things. Spend your precious time creating happy memories instead. 
+If you have two or more of the luxuries on my list, then you are indeed very rich! Don’t waste your time chasing an overabundance of money just to buy unimportant things. Spend your precious time creating happy memories instead. 🌟✨💫
