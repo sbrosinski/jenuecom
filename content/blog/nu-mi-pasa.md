@@ -1,5 +1,5 @@
 ---
-title: nu-mi pasă
+title: Nu-mi pasă
 date: "2026-06-13"
 ---
 
