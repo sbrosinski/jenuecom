@@ -1,5 +1,5 @@
 ---
-title: Urasc ca te iubesc
+title: Urăsc că te iubesc
 date: "2026-11-27"
 ---
 
